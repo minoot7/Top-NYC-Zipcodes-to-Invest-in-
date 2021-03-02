@@ -1,7 +1,4 @@
 # AirBnB & Zillow Data Challenge #
-## Minoo Taghavi ## 
-### Minoo.tgh1991@gmail.com ###
-***
 ---
 ## Executive Statement
 ---

@@ -1,0 +1,14 @@
+pandas==1.2.0
+numpy==1.19.2
+seaborn==0.11.1
+matplotlib==3.3.2
+plotly==4.14.3
+plotly-express==0.4.1
+plotly-geo==1.0.0
+uszipcode==0.2.4
+json5==0.9.5
+jsonpatch==1.26
+jsonpointer==2.0
+jsonschema==3.2.0
+folium==0.11.0
+scipy==1.5.2
