@@ -1,4 +1,4 @@
-# AirBnB & Zillow Data Challenge #
+# Find the best NYC Zipcodes to Invest in! Using AirBnB & Zillow Datasets #
 ---
 ## Executive Statement
 ---
